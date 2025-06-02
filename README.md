@@ -1,4 +1,7 @@
-I’m a frontend dev who’s all about Next.js 15—whether it’s SSR, SSG, API routes, or middleware. I usually stick to modern React with hooks and functional components, and I’ve even put together HTML email templates that don’t fall apart in Gmail, Outlook, or on people’s phones. On the backend side, I’m comfy with Express.js APIs, SQL, and Prisma (ORM), and I’m happy to bring in third-party libraries or APIs when they make sense. Occasionally, you’ll find me sharing my questionable wisdom through technical articles at [https://medium.com/@radovanbotik](https://medium.com/@radovanbotik).
+I’ve worked at two major tech-driven companies—VOIS and AT&T—supporting IoT platforms, mobile core networks, and connectivity infrastructure.
+Alongside that, I’ve been consistently building frontend projects using Next.js 15  and modern React with hooks and functional components. On the backend, I’m comfortable with Node.js, Express, SQL
+Sometimes, I write about my work on https://medium.com/@radovanbotik
+
 
 ---
 
